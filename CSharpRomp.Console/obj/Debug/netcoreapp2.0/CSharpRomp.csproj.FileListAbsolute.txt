@@ -1,0 +1,11 @@
+D:\Repository\CSharpRomp\CSharpRomp\bin\Debug\netcoreapp2.0\CSharpRomp.deps.json
+D:\Repository\CSharpRomp\CSharpRomp\bin\Debug\netcoreapp2.0\CSharpRomp.runtimeconfig.json
+D:\Repository\CSharpRomp\CSharpRomp\bin\Debug\netcoreapp2.0\CSharpRomp.runtimeconfig.dev.json
+D:\Repository\CSharpRomp\CSharpRomp\bin\Debug\netcoreapp2.0\CSharpRomp.dll
+D:\Repository\CSharpRomp\CSharpRomp\obj\Debug\netcoreapp2.0\CSharpRomp.csprojResolveAssemblyReference.cache
+D:\Repository\CSharpRomp\CSharpRomp\obj\Debug\netcoreapp2.0\CSharpRomp.csproj.CoreCompileInputs.cache
+D:\Repository\CSharpRomp\CSharpRomp\obj\Debug\netcoreapp2.0\CSharpRomp.AssemblyInfoInputs.cache
+D:\Repository\CSharpRomp\CSharpRomp\obj\Debug\netcoreapp2.0\CSharpRomp.AssemblyInfo.cs
+D:\Repository\CSharpRomp\CSharpRomp\bin\Debug\netcoreapp2.0\CSharpRomp.pdb
+D:\Repository\CSharpRomp\CSharpRomp\obj\Debug\netcoreapp2.0\CSharpRomp.dll
+D:\Repository\CSharpRomp\CSharpRomp\obj\Debug\netcoreapp2.0\CSharpRomp.pdb

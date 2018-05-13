@@ -1,0 +1,11 @@
+D:\Repository\CSharpRomp\CSharpRomp.Console\bin\Debug\netcoreapp2.0\CSharpRomp.Console.deps.json
+D:\Repository\CSharpRomp\CSharpRomp.Console\bin\Debug\netcoreapp2.0\CSharpRomp.Console.runtimeconfig.json
+D:\Repository\CSharpRomp\CSharpRomp.Console\bin\Debug\netcoreapp2.0\CSharpRomp.Console.runtimeconfig.dev.json
+D:\Repository\CSharpRomp\CSharpRomp.Console\bin\Debug\netcoreapp2.0\CSharpRomp.Console.dll
+D:\Repository\CSharpRomp\CSharpRomp.Console\bin\Debug\netcoreapp2.0\CSharpRomp.Console.pdb
+D:\Repository\CSharpRomp\CSharpRomp.Console\obj\Debug\netcoreapp2.0\CSharpRomp.Console.csprojResolveAssemblyReference.cache
+D:\Repository\CSharpRomp\CSharpRomp.Console\obj\Debug\netcoreapp2.0\CSharpRomp.Console.csproj.CoreCompileInputs.cache
+D:\Repository\CSharpRomp\CSharpRomp.Console\obj\Debug\netcoreapp2.0\CSharpRomp.Console.AssemblyInfoInputs.cache
+D:\Repository\CSharpRomp\CSharpRomp.Console\obj\Debug\netcoreapp2.0\CSharpRomp.Console.AssemblyInfo.cs
+D:\Repository\CSharpRomp\CSharpRomp.Console\obj\Debug\netcoreapp2.0\CSharpRomp.Console.dll
+D:\Repository\CSharpRomp\CSharpRomp.Console\obj\Debug\netcoreapp2.0\CSharpRomp.Console.pdb
